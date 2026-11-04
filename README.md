@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Imran! 👋
 
-<!--
-**72302/72302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | Computer Science Student
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about programming, problem-solving, and building software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 Computer Science Student
+- 💻 Interested in Software Development
+- 🌱 Continuously learning new technologies
+- 🧠 Practicing Data Structures & Algorithms
+- 🎯 Working towards becoming a skilled Software Developer
+
+### 💻 Languages & Technologies
+- Java
+- C++
+- HTML
+- CSS
+- JavaScript
+- Data Structures & Algorithms
+
+### 📌 Featured Project
+- **Cinema Management System** – A Java-based project.
+
+### 📫 Connect With Me
+- GitHub: https://github.com/72302
+
+---
+⭐ Thanks for visiting my profile!
